@@ -1,6 +1,7 @@
 """
 Main function to initialize variables, directories and user data and for calling/executing the desired functions
 Authors: Marlin Mueller <marlin.markus.mueller@uni-jena.de>, Jonas Ziemer <jonas.ziemer@uni-jena.de>
+        Maximilian Nestler <Maximilian.Nestler@uni-jena.de>, Felix Bachmann <Felix.Bachmann@uni-jena.de>
 """
 
 ###########################################################
