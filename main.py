@@ -17,6 +17,7 @@ from test import *
 ###########################################################
 
 # test felix
+ABC = 'TEST MARLIN'
 def main():
     test(word="blabla")
 
